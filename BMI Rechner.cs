@@ -10,7 +10,7 @@ namespace C__Class
             Weight = weight;
             Size = size;
         }
-
+        
         public double BMI()
         {
             return Weight / (Size * Size);
