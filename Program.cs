@@ -20,7 +20,7 @@ namespace C__Class
             {
                 Console.WriteLine(cat[i].Name + "\t" + cat[i].Weight + "\t" + cat[i].Size + "\t" + bmi[i].BMI());
             }
-
+            
         }
 
     }
