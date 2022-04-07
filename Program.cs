@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 
 namespace C__Class
@@ -16,7 +16,7 @@ namespace C__Class
                 bmi[i - 1] = new BMIRechner("Berti " + i.ToString(), 10, i * 5);
             }
 
-            for (int i = 0; i < cat.Length; i++) 
+            for (int i = 0; i < cat.Length; i++)
             {
                 Console.WriteLine(cat[i].Name + "\t" + cat[i].Weight + "\t" + cat[i].Size + "\t" + bmi[i].BMI());
             }
