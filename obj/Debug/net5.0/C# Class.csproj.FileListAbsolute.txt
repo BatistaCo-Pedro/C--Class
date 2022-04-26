@@ -14,3 +14,19 @@ C:\Users\bfo\Documents\C# Class\obj\Debug\net5.0\C# Class.dll
 C:\Users\bfo\Documents\C# Class\obj\Debug\net5.0\ref\C# Class.dll
 C:\Users\bfo\Documents\C# Class\obj\Debug\net5.0\C# Class.pdb
 C:\Users\bfo\Documents\C# Class\obj\Debug\net5.0\C# Class.genruntimeconfig.cache
+C:\Users\bfo\Documents\dsaf\C--Class\obj\Debug\net5.0\C# Class.csproj.AssemblyReference.cache
+C:\Users\bfo\Documents\dsaf\C--Class\obj\Debug\net5.0\C# Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bfo\Documents\dsaf\C--Class\obj\Debug\net5.0\C# Class.AssemblyInfoInputs.cache
+C:\Users\bfo\Documents\dsaf\C--Class\obj\Debug\net5.0\C# Class.AssemblyInfo.cs
+C:\Users\bfo\Documents\dsaf\C--Class\obj\Debug\net5.0\C# Class.csproj.CoreCompileInputs.cache
+C:\Users\bfo\Documents\dsaf\C--Class\obj\Debug\net5.0\C# Class.dll
+C:\Users\bfo\Documents\dsaf\C--Class\obj\Debug\net5.0\ref\C# Class.dll
+C:\Users\bfo\Documents\dsaf\C--Class\obj\Debug\net5.0\C# Class.pdb
+C:\Users\bfo\Documents\dsaf\C--Class\bin\Debug\net5.0\C# Class.exe
+C:\Users\bfo\Documents\dsaf\C--Class\bin\Debug\net5.0\C# Class.deps.json
+C:\Users\bfo\Documents\dsaf\C--Class\bin\Debug\net5.0\C# Class.runtimeconfig.json
+C:\Users\bfo\Documents\dsaf\C--Class\bin\Debug\net5.0\C# Class.runtimeconfig.dev.json
+C:\Users\bfo\Documents\dsaf\C--Class\bin\Debug\net5.0\C# Class.dll
+C:\Users\bfo\Documents\dsaf\C--Class\bin\Debug\net5.0\ref\C# Class.dll
+C:\Users\bfo\Documents\dsaf\C--Class\bin\Debug\net5.0\C# Class.pdb
+C:\Users\bfo\Documents\dsaf\C--Class\obj\Debug\net5.0\C# Class.genruntimeconfig.cache
